@@ -1,0 +1,27 @@
+{
+  "name": "grunt-jenkins",
+  "version": "0.0.1",
+  "description": "Prototype project for using Grunt as Taskrunner for a project, and integrating it with Jenkins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pateatlau/grunt-jenkins.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "latest",
+    "jshint-stylish": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/pateatlau/grunt-jenkins/issues"
+  },
+  "homepage": "https://github.com/pateatlau/grunt-jenkins#readme",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "latest",
+    "jshint-stylish": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "author": "Lalding"
+}
